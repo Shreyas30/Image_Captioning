@@ -41,3 +41,7 @@ The architecture of the chosen model is shown in the above figure 4.4. Model arc
 **Caption**
 
 > a girl in a crowd its red hair with up a yellow girl in a yellow dress endseq
+
+## Colab 
+
+https://colab.research.google.com/drive/16C6PEUYUA9fa8HARz3IK-i3RmsuMxTrG?usp=sharing#scrollTo=T9-xn-aaXgjT
